@@ -1,2 +1,6 @@
-# Netfllix_Clone-
- Netflix Clone Project: Explore our open-source endeavor to recreate the captivating Netflix experience. Dive into an immersive world of movies, shows, profiles, and recommendations. Contribute your skills to shape the future of online entertainment. Join us in reimagining the digital streaming landscape.
+
+Link : https://deft-youtiao-ceaf4d.netlify.app/
+
+# home Page
+
+![Screenshot (73)](https://user-images.githubusercontent.com/75197506/191081813-d91a02d3-f19c-4695-8e3b-2c620251577a.png)
